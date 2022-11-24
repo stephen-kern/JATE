@@ -37,6 +37,7 @@ N/A
 
 - Github Username: [stephen-kern](https://github.com/stephen-kern)
 - Contact Email: stephenkern96@gmail.com
-- 
-- ![JATE](https://user-images.githubusercontent.com/94320530/203666351-683af051-7dd2-41cc-962c-a186e6ca3cb5.png)
+
+
+![JATE](https://user-images.githubusercontent.com/94320530/203666351-683af051-7dd2-41cc-962c-a186e6ca3cb5.png)
 
