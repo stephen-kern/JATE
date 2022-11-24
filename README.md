@@ -3,6 +3,7 @@
 ## Description
 
 JATE is a Progressive Web App! It is a text editor that a user can use in the browser or download it to their machine!
+JATE uses Webpack to compile js files into a bundle and uses idb / indexedDB for in browser storage.
 
 ## Table of Contents
 
